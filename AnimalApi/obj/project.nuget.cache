@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLFt2cCyJDg=",
+  "dgSpecHash": "hFly0hHvJzQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\natha\\OneDrive\\Documents\\DotNet Eval\\AnimalApi\\AnimalApi\\AnimalApi.csproj",
   "expectedPackageFiles": [
@@ -73,7 +73,6 @@
     "C:\\Users\\natha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
-    "C:\\Users\\natha\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",

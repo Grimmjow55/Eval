@@ -323,9 +323,6 @@ C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\obj\Debug\net8
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\obj\Debug\net8.0\AnimalApi.genruntimeconfig.cache
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\obj\Debug\net8.0\ref\AnimalApi.dll
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\obj\Debug\net8.0\MvcTestingAppManifest.json
-C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\ClientConsoleAnimalApi.deps.json
-C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\ClientConsoleAnimalApi.runtimeconfig.json
-C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\ClientConsoleAnimalApi.exe
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\MvcTestingAppManifest.json
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -630,5 +627,4 @@ C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\refs\WindowsBase.dll
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Testing.dll
 C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\Microsoft.AspNetCore.TestHost.dll
-C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\ClientConsoleAnimalApi.dll
-C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\bin\Debug\net8.0\ClientConsoleAnimalApi.pdb
+C:\Users\natha\OneDrive\Documents\DotNet Eval\AnimalApi\AnimalApi\obj\Debug\net8.0\AnimalApi.sourcelink.json
