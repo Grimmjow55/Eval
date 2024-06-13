@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: animaldb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  api:
+    build: .
+    environment:
+      - ConnectionStrings__DefaultConnection=server=mysql;port=3306;database=animaldb;user=user;password=password
+    ports:
+      - "8080:80"
+    depends_on:
+      - mysql
+
+  console:
+    build: .
+    environment:
+      - ConnectionStrings__DefaultConnection=server=mysql;port=3306;database=animaldb;user=user;password=password
+    entrypoint: ["dotnet", "ClientConsoleAnimalApi.dll"]
+    depends_on:
+      - mysql
+    stdin_open: true
+    tty: true
+
+volumes:
+  mysql_data:
